@@ -5,7 +5,7 @@ void main() {
   
 }
 //Tricye...........stashing___________GENERATED++++++++++++++++++++++VPN______________DO++++++++++NOT++++++++++TOUCH++++++++++THE++++++++++CODE
-
+//>>>>>>>>>>>>>>BY>>>>>>>NORD>>>>>>VPN>>>>>>>>
 //This is something edited by someone and you have to update the code without fucking up. 
 //changes have been made from remote 
 class MyApp extends StatelessWidget {
