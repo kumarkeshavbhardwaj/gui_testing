@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MyApp());
+  
 }
+//This is something edited by someone and you have to update the code without fucking up. 
 //changes have been made from remote 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
